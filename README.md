@@ -2,8 +2,8 @@
 
 ## Student Information
 
-**Student Name:** Osaf Imran  
-**Student ID:** SE-221055 
+**Student Name:** Abdul Rafay
+**Student ID:** Se221038
 
 ## Project Overview
 
@@ -42,4 +42,4 @@ Password must contain:
 Example valid password:
 
 ```text
-Test@123
+Rafay@1122
